@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# some screenshots..
+![image](https://github.com/Deepakrocknow/gym-react/assets/130336302/4d2cdbe4-6fcf-46a4-932e-94bfdd8a2bf7)
+![image](https://github.com/Deepakrocknow/gym-react/assets/130336302/5815d2df-ce02-496b-8b89-0b4ab72e9e3e)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
